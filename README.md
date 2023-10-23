@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @puttu001
-- 👀 Interested in software development
-- 🌱
-- 💞️ 
 - 📫 LinkedIn- https://www.linkedin.com/in/pankaj-kumar-3bbb66228
 
 <!---
